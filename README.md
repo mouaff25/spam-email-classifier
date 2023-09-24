@@ -37,5 +37,7 @@ To use this Spam Email Classifier, follow these steps:
 5. **Enjoy!**
     Use the Spam Email Classifier to quickly identify and categorize emails in your dataset or for individual emails.
 
+**You can alternatively use the app hosted on [Hugging Face Spaces](https://huggingface.co/spaces), which is accessible at [this link](https://huggingface.co/spaces/mouaff25/spam-email-classifier).**
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/mouaff25/spam-email-classifier/blob/main/LICENSE) file for details.
